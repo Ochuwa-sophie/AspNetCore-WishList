@@ -1,7 +1,7 @@
 using System;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Wishlist
+namespace Wishlist.Controllers
 {
     public class HomeController : Controller
     {
